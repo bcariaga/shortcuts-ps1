@@ -1,0 +1,1 @@
+start "C:\Users\bcariaga\Documents\elasticsearch-7.4.2\bin\elasticsearch.bat"
